@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connect Four</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_reset_game">Restart Game</string>
+    <string name="menu_reset_scores">Reset Scores</string>
+    
+    <string name="turn_label">Turn:</string>
+    <string name="first_player">Red</string>
+    <string name="second_player">Blue</string>
+    <string name="winner_label">WINNER:</string>
+    <string name="draw_label">DRAW</string>
+    <string name="score_label">Score:</string>
+    
+    <string name="newgame_button">New Game</string>
+
+</resources>

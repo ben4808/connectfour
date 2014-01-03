@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="status_chip_radius">15dp</dimen>
+    <dimen name="status_chip_halo_radius">2dp</dimen>
+    <dimen name="game_chip_halo_radius">3dp</dimen>
+    <dimen name="game_border_size">3dp</dimen>
+    <dimen name="normal_text_size">18sp</dimen>
+    <dimen name="large_text_size">24sp</dimen>
+
+</resources>
